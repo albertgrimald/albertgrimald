@@ -41,7 +41,7 @@ Me chamo Albert Grimaldi Costa e sou de Valença, BA. 🚀
     <td width="75%">
       Aqui você pode acompanhar minha evolução prática no curso de Análise e Desenvolvimento de Sistemas pelo <b>IFBA</b>. Neste repositório, compartilho meus exercícios de lógica, pequenos scripts em Python e os projetos desenvolvidos durante as aulas.
       <br><br>
-      <a href="COLE_O_LINK_DO_SEU_REPOSITORIO_AQUI" target="_blank">
+      <a href="https://github.com/albertgrimald/ADS_IFBA" target="_blank">
         <img src="https://img.shields.io/badge/Ver_Projetos_do_IFBA-238636?style=for-the-badge&logo=github&logoColor=white" alt="Projetos IFBA">
       </a>
     </td>
