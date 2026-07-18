@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Albert Grimaldi Costa
+# 👨‍💻 Albert Grimaldi Costa
 
 **`Estudante de ADS `**
 
