@@ -50,6 +50,25 @@ Me chamo Albert Grimaldi Costa e sou de Valença, BA. 🚀
     </td>
   </tr>
 </table>
+<br>
+
+### 🚀 Projetos Pessoais e Automações
+
+<table>
+  <tr>
+    <td width="70%">
+      Espaço dedicado aos meus projetos autorais, experimentações e códigos criados fora da grade curricular. Aqui armazeno utilitários e aplico a teoria na construção de protótipos de gestão, automação de rotinas e ferramentas independentes desenhadas para solucionar problemas práticos.
+      <br><br>
+      <a href="https://github.com/albertgrimald/Projetos_Pessoais">
+        <img src="https://img.shields.io/badge/VER_PROJETOS_PESSOAIS-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver Projetos Pessoais">
+      </a>
+    </td>
+    <td width="30%" align="center">
+      <!-- Ícone genérico de desenvolvimento para manter a simetria com a logo do IFBA -->
+      <img src="https://cdn-icons-png.flaticon.com/512/1005/1005141.png" width="90" alt="Ícone Projetos Pessoais">
+    </td>
+  </tr>
+</table>
 
 ### 🚀 Em Desenvolvimento
 **Aplicativo de Gestão e Rastreio de Entregas**
