@@ -7,15 +7,10 @@ Tenho background prático em **Logística e sistemas ERP corporativos** (TOTVS P
 
 <p align="left">
   <!-- Botões de Contato -->
-  <a href="https://www.linkedin.com/in/albertgrimaldi/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:albertgrimaldi@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook">
-  </a>
-<a href="COLE_O_LINK_DO_SEU_CURRICULO_AQUI" target="_blank">
-  <img src="https://img.shields.io/badge/Acessar_Currículo-252526?style=for-the-badge&logo=googledocs&logoColor=white" alt="Currículo">
-</a>
+  <a href="https://www.linkedin.com/in/albertgrimaldi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:albertgrimaldi@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoftoutlook&logoColor=white" alt="Outlook"></a>
+  <a href="COLE_O_LINK_DO_SEU_CURRICULO_AQUI" target="_blank"><img src="https://img.shields.io/badge/Acessar_Curr%C3%ADculo-252526?style=flat&logo=googledocs&logoColor=white" alt="Currículo"></a>
+</p>
 
 ---
 
