@@ -1,13 +1,9 @@
-# 👨‍💻 Albert Grimaldi Costa
+# Olá, sou o Albert! 👋
 
-**`Estudante de ADS `**
+🎓 **Estudante de Análise e Desenvolvimento de Sistemas (IFBA - Valença)**  
+🎯 **Objetivo:** Estágio em Desenvolvimento de Software / TI  
 
-Me chamo Albert Grimaldi Costa e sou de Valença, BA. 🚀
-
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas no IFBA.
-- 💼 Background em Logística e Rotinas Administrativas: Experiência prática na operação de sistemas ERP corporativos (TOTVS Protheus, TOTVS Gemco, NB Systems), o que me trouxe uma visão sólida de regras de negócio, fluxos de operação e resolução de problemas para aplicar no desenvolvimento de software.
-- 💻 Desenvolvedor em formação, apaixonado por criar aplicações e explorar novas tecnologias.
-- 🎯 Buscando desafios variados para aplicar meus conhecimentos em diversos tipos de projetos de software.
+Tenho background prático em **Logística e sistemas ERP corporativos** (TOTVS Protheus, Gemco). Atualmente, estou aplicando essa visão de negócios na programação, com foco em resolução de problemas e automação de processos.
 
 <p align="left">
   <!-- Botões de Contato -->
@@ -23,18 +19,8 @@ Me chamo Albert Grimaldi Costa e sou de Valença, BA. 🚀
 
 ---
 
-### 🤖 Linguagens e Ferramentas
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
-</div>
-
-<br>
-
-### 🎓 Projetos Acadêmicos
+### 📚 Jornada Acadêmica & Estudos (IFBA)
 
 <table>
   <tr>
@@ -50,8 +36,9 @@ Me chamo Albert Grimaldi Costa e sou de Valença, BA. 🚀
     </td>
   </tr>
 </table>
-<br>
 
+
+---
 ### 🚀 Projetos Pessoais e Automações
 
 <table>
@@ -70,9 +57,19 @@ Me chamo Albert Grimaldi Costa e sou de Valença, BA. 🚀
   </tr>
 </table>
 
-### 🚀 Em Desenvolvimento
-**Aplicativo de Gestão e Rastreio de Entregas**
-Atualmente construindo um protótipo focado em otimizar operações logísticas. O objetivo é aplicar a lógica de programação para resolver gargalos reais de distribuição e rastreamento que vivenciei na prática.
+---
 
+**Linguagens & Base:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Logic](https://img.shields.io/badge/L%C3%B3gica_de_Programa%C3%A7%C3%A3o-4D4D4D?style=flat)
+![Data Structures](https://img.shields.io/badge/Estrutura_de_Dados-4D4D4D?style=flat)
 
-*(Repositório em breve)*
+**Ferramentas:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
+
+**Sistemas & Domínio:**  
+![TOTVS](https://img.shields.io/badge/ERPs_Corporativos_(TOTVS)-00529A?style=flat)
+![Logistica](https://img.shields.io/badge/Regras_de_Neg%C3%B3cio_%26_Log%C3%ADstica-34495E?style=flat)
+
