@@ -31,7 +31,25 @@ Tenho background prático em **Logística e sistemas ERP corporativos** (TOTVS P
     </td>
   </tr>
 </table>
+<br>
 
+### 📚 Cursos e Treinamentos
+
+<table>
+  <tr>
+    <td width="70%">
+      Espaço dedicado aos meus estudos extracurriculares, bootcamps e anotações. Aqui documento meu aprendizado contínuo, exercícios práticos e a exploração de novas tecnologias além da grade acadêmica tradicional.
+      <br><br>
+      <a href="https://github.com/albertgrimald/Cursos_e_Treinamentos">
+        <img src="https://img.shields.io/badge/VER_CURSOS_E_TREINAMENTOS-0366D6?style=for-the-badge&logo=github&logoColor=white" alt="Ver Cursos e Treinamentos">
+      </a>
+    </td>
+    <td width="30%" align="center">
+      <!-- Ícone focado em estudos para manter a simetria visual -->
+      <img src="https://cdn-icons-png.flaticon.com/512/2436/2436805.png" width="90" alt="Ícone Cursos e Treinamentos">
+    </td>
+  </tr>
+</table>
 
 ---
 ### 🚀 Projetos Pessoais e Automações
